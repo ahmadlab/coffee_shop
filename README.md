@@ -1,16 +1,12 @@
 # coffee_shop_preparation
 
-A new Flutter project.
+A flutter code to create amazing screen of coffee shop
+the page contain home page and product detail page.
 
-## Getting Started
+feel free to download it..
 
-This project is a starting point for a Flutter application.
+## Screenshoot
 
-A few resources to get you started if this is your first Flutter project:
+![Home Page](screenshoot/home.png)
+![Product Detail](screenshoot/detail.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
